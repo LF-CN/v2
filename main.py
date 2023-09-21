@@ -20,7 +20,7 @@ def get_file_route():
         # 根据选项执行相应的操作
         if choice == 1:
             # speedtest自选
-            return r'G:\py\v2ray\output\ip_filtered.csv', 'utf-8', True  # 返回默认文件路径、编码和端口标记
+            return r'output\ip_filtered.csv', 'utf-8', True  # 返回默认文件路径、编码和端口标记
         elif choice == 2:
             # speedtest默认
             return r'G:\v2\优选IP\ip.csv', 'gbk', True  # 返回用户选择的文件路径、编码和端口标记

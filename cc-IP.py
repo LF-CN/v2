@@ -37,7 +37,7 @@ print(f"数据已成功写入到 {output_file_ip} 文件中。")
 input_file = r'output\ip.csv'
 output_file_speed = r'output\ip_filtered.csv'
 command = [
-    r"G:\py\v2ray\output\iptest.exe",
+    r"output\iptest.exe",
     "-port", "2096",
     "-file", r"output\ip.txt",
     "-outfile", input_file,
