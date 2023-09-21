@@ -1,0 +1,68 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+104.18.15.145,2096,true,SJC,North America,San Jose,145 ms,6620 kB/s
+162.159.128.70,2096,true,SJC,North America,San Jose,150 ms,5847 kB/s
+172.66.40.104,2096,true,SJC,North America,San Jose,160 ms,4598 kB/s
+146.56.37.227,2096,true,NRT,Asia Pacific,Tokyo,360 ms,4571 kB/s
+146.56.40.191,2096,true,NRT,Asia Pacific,Tokyo,353 ms,4352 kB/s
+172.67.149.89,2096,true,LHR,Europe,London,194 ms,4021 kB/s
+104.16.54.16,2096,true,SJC,North America,San Jose,163 ms,3991 kB/s
+104.18.3.117,2096,true,SJC,North America,San Jose,173 ms,3830 kB/s
+104.19.149.54,2096,true,SJC,North America,San Jose,164 ms,3750 kB/s
+172.67.144.162,2096,true,LHR,Europe,London,172 ms,3564 kB/s
+172.66.43.110,2096,true,SJC,North America,San Jose,148 ms,3499 kB/s
+172.66.40.144,2096,true,SJC,North America,San Jose,155 ms,3268 kB/s
+104.18.14.15,2096,true,SJC,North America,San Jose,167 ms,3258 kB/s
+104.26.12.65,2096,true,IAD,North America,Ashburn,212 ms,3235 kB/s
+103.160.204.3,2096,true,SJC,North America,San Jose,173 ms,3156 kB/s
+104.17.253.38,2096,true,SJC,North America,San Jose,156 ms,3123 kB/s
+162.159.152.4,2096,true,SJC,North America,San Jose,158 ms,3109 kB/s
+104.21.31.101,2096,true,LHR,Europe,London,194 ms,3071 kB/s
+104.21.34.85,2096,true,LHR,Europe,London,173 ms,2982 kB/s
+172.67.73.9,2096,true,IAD,North America,Ashburn,216 ms,2963 kB/s
+104.16.163.13,2096,true,SJC,North America,San Jose,134 ms,2837 kB/s
+104.18.15.15,2096,true,SJC,North America,San Jose,150 ms,2766 kB/s
+172.67.162.212,2096,true,LHR,Europe,London,207 ms,2695 kB/s
+172.67.209.190,2096,true,LHR,Europe,London,193 ms,2673 kB/s
+104.18.4.195,2096,true,SJC,North America,San Jose,131 ms,2659 kB/s
+104.18.39.132,2096,true,SJC,North America,San Jose,154 ms,2650 kB/s
+104.18.24.203,2096,true,LAX,North America,Los Angeles,136 ms,2460 kB/s
+207.127.91.76,2096,true,OSL,Europe,Oslo,278 ms,2429 kB/s
+104.21.68.212,2096,true,LHR,Europe,London,194 ms,2423 kB/s
+104.21.82.195,2096,true,LHR,Europe,London,217 ms,2378 kB/s
+8.209.78.173,2096,true,FRA,Europe,Frankfurt,249 ms,2369 kB/s
+104.18.6.100,2096,true,SJC,North America,San Jose,136 ms,2352 kB/s
+104.21.46.157,2096,true,LHR,Europe,London,170 ms,2343 kB/s
+104.26.0.120,2096,true,IAD,North America,Ashburn,211 ms,2314 kB/s
+172.67.172.162,2096,true,LHR,Europe,London,247 ms,2256 kB/s
+8.211.8.70,2096,true,FRA,Europe,Frankfurt,265 ms,2246 kB/s
+185.148.104.5,2096,true,SJC,North America,San Jose,164 ms,2245 kB/s
+207.127.93.0,2096,true,OSL,Europe,Oslo,332 ms,2195 kB/s
+104.18.19.110,2096,true,LAX,North America,Los Angeles,164 ms,2159 kB/s
+104.18.14.15,2096,true,SJC,North America,San Jose,164 ms,2130 kB/s
+172.67.190.227,2096,true,LHR,Europe,London,222 ms,2128 kB/s
+104.21.15.147,2096,true,LHR,Europe,London,201 ms,2103 kB/s
+162.159.129.70,2096,true,SJC,North America,San Jose,139 ms,1960 kB/s
+104.17.93.1,2096,true,SJC,North America,San Jose,179 ms,1945 kB/s
+104.16.110.181,2096,true,SJC,North America,San Jose,159 ms,1912 kB/s
+104.18.12.146,2096,true,SJC,North America,San Jose,133 ms,1897 kB/s
+8.209.103.188,2096,true,FRA,Europe,Frankfurt,280 ms,1851 kB/s
+104.21.19.14,2096,true,LHR,Europe,London,195 ms,1847 kB/s
+104.22.58.249,2096,true,IAD,North America,Ashburn,216 ms,1841 kB/s
+172.67.194.236,2096,true,LHR,Europe,London,196 ms,1801 kB/s
+104.21.8.57,2096,true,LHR,Europe,London,193 ms,1783 kB/s
+207.127.90.181,2096,true,ARN,Europe,Stockholm,306 ms,1773 kB/s
+104.17.157.1,2096,true,SJC,North America,San Jose,146 ms,1765 kB/s
+8.211.8.70,2096,true,FRA,Europe,Frankfurt,300 ms,1748 kB/s
+132.226.175.232,2096,true,NRT,Asia Pacific,Tokyo,367 ms,1719 kB/s
+8.209.78.173,2096,true,FRA,Europe,Frankfurt,286 ms,1709 kB/s
+172.67.171.70,2096,true,LHR,Europe,London,185 ms,1674 kB/s
+172.67.162.212,2096,true,LHR,Europe,London,201 ms,1655 kB/s
+8.209.104.149,2096,true,FRA,Europe,Frankfurt,332 ms,1642 kB/s
+188.166.231.27,2096,true,SIN,Asia Pacific,Singapore,381 ms,1637 kB/s
+104.19.253.8,2096,true,LAX,North America,Los Angeles,152 ms,1635 kB/s
+104.21.12.252,2096,true,LHR,Europe,London,172 ms,1634 kB/s
+131.186.29.243,2096,true,NRT,Asia Pacific,Tokyo,343 ms,1604 kB/s
+104.26.6.4,2096,true,IAD,North America,Ashburn,218 ms,1583 kB/s
+104.18.29.231,2096,true,LAX,North America,Los Angeles,210 ms,1561 kB/s
+104.18.29.153,2096,true,LAX,North America,Los Angeles,154 ms,1547 kB/s
+104.21.81.209,2096,true,LHR,Europe,London,195 ms,1521 kB/s
