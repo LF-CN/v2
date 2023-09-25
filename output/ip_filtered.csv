@@ -1,3 +1,2 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.222.137.192,2096,true,SIN,Asia Pacific,Singapore,193 ms,5251 kB/s
-8.209.117.14,2096,true,FRA,Europe,Frankfurt,235 ms,3402 kB/s
+104.21.52.30,2096,true,LHR,Europe,London,199 ms,1974 kB/s
